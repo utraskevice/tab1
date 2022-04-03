@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 10px;
+}
+
+table {
+  border: 3px solid #fec008;
+  border-collapse: collapse;
+  font-family: Poppins;
+  margin: 30px auto;
+}
+
+th,
+td {
+  border: 2px solid #fec008;
+  padding: 15px;
+  width: 200px;
+  font-size: 1.3em;
+}
+
+th {
+  background: #fec008;
+}
+
+td {
+  background: #3c2c6b;
+  color: white;
+}
+
+.orange {
+  background: #e5ae30;
+}
